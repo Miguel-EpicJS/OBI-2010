@@ -24,3 +24,4 @@ int main()
 
     return 0;
 }
+// Link da explicação de cada código https://pt.stackoverflow.com/questions/446746/resolvendo-obi-2010-ex-do-gar%c3%a7om/446747#446747
