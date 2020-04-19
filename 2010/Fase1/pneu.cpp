@@ -13,3 +13,4 @@ int main()
 
     return 0;
 }
+//link da explicação do código: https://pt.stackoverflow.com/questions/447082/resolvendo-obi-2010-ex-do-pneu-em-c
